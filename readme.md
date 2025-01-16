@@ -6,6 +6,7 @@
 2. [Future Support?](https://github.com/xxpwnxxx420lord/Onyx/blob/main/readme.md#future-support-lock) - Lets you know what may be coming to this project.
 3. [Guide](https://github.com/xxpwnxxx420lord/Onyx/blob/main/readme.md#guide) - Just a fairly basic guide to teach you how to use this.
 4. [Latest Release](https://github.com/xxpwnxxx420lord/Onyx/blob/main/readme.md#our-script-scroll) - Copy the latest, and most updated edition of Onyx.
+5. [Credits](https://github.com/xxpwnxxx420lord/Onyx/blob/main/readme.md#credits-) - people that has helped develop Onyx
 
 # What's This? :thought_balloon:
 Onyx - A lighting / humanoid manipulation utility that heavily improves FPS, playability, and allows for tons of player mods and unfair advantages.
@@ -28,3 +29,4 @@ loadstring(game:HttpGet(
 
 # Credits 🪪
 whitelist for owner tag system - https://devforum.roblox.com/t/nametags-in-the-game-chat/173210/6
+readme.md stylist - mr.suno (1002377371892072498)
