@@ -9,5 +9,3 @@ Onyx is a script that intuitively manages lighting and humanoid properties for e
 
 # how to use
 Download an executor like [Salad](https://discord.gg/NbpGvpfJ29), [solara](https://getsolara.dev/) or [argon](https://getargon.xyz/)  
-
-# help
