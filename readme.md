@@ -8,4 +8,12 @@ Onyx is a script that intuitively manages lighting and humanoid properties for e
 **I** made onyx as a fun project while argon is down and i have free time. 
 
 # how to use
-Download an executor like [Salad](https://discord.gg/NbpGvpfJ29), [solara](https://getsolara.dev/) or [argon](https://getargon.xyz/)  
+1. Download an executor like [Salad](https://discord.gg/NbpGvpfJ29), [Solara](https://getsolara.dev/) or [Argon](https://getargon.xyz/)  
+2. Inject/attach your executor into [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+3. in the textbox insert the code below into it and execute
+4. there Onyx is offically loaded into the game
+
+# The script
+```lua
+loadstring(game:HttpGet("https://github.com/xxpwnxxx420lord/Onyx/blob/main/load.lua?raw=true",true))()
+```
