@@ -28,5 +28,4 @@ loadstring(game:HttpGet(
 ```
 
 # Credits 🪪
-1. whitelist for owner tag system - https://www.youtube.com/watch?v=SwUTLXLBwOc 
 2. readme.md stylist - mr.suno (1002377371892072498)
