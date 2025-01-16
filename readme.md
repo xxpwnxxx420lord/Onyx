@@ -3,7 +3,7 @@ Any bugs or issues we're not aware of? **[Report it](https://discord.com/invite/
 
 # Table of Contents :bookmark:
 1. [What's This?](https://github.com/xxpwnxxx420lord/Onyx/blob/main/readme.md#whats-this-thought_balloon) - Provides a brief description of Onyx.
-2. [Future Support?](<HEADER URL>) - Lets you know what may be coming to this project.
+2. [Future Support?](https://github.com/xxpwnxxx420lord/Onyx/blob/main/readme.md#future-support-lock) - Lets you know what may be coming to this project.
 3. [Guide](<HEADER URL>) - Just a fairly basic guide to teach you how to use this.
 4. [Latest Release](<HEADER URL>) - Copy the latest, and most updated edition of Onyx.
 
