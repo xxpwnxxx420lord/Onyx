@@ -28,5 +28,5 @@ loadstring(game:HttpGet(
 ```
 
 # Credits 🪪
-1. whitelist for owner tag system - https://devforum.roblox.com/t/nametags-in-the-game-chat/173210/6
+1. whitelist for owner tag system - https://www.youtube.com/watch?v=SwUTLXLBwOc 
 2. readme.md stylist - mr.suno (1002377371892072498)
