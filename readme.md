@@ -25,3 +25,6 @@ loadstring(game:HttpGet(
   "https://github.com/xxpwnxxx420lord/Onyx/blob/main/load.lua?raw=true"
 ))()
 ```
+
+# Credits 🪪
+whitelist for owner tag system - https://devforum.roblox.com/t/nametags-in-the-game-chat/173210/6
