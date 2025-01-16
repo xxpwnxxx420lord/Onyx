@@ -1,20 +1,27 @@
-> [!TIP]
-> Is there a error or a bug that i didnt come across? [report it to me](https://discord.gg/a9Ng5WAzPK) 
+[!TIP]
+Any bugs or issues we're not aware of? **[Report it](https://discord.com/invite/a8Ng5WAzPK)**
 
-# what is onyx? 
-Onyx is a lighting and humanoid managment tool, to improve your games lighting and give yourself unfair advantages.
+# Table of Contents :bookmark:
+1. [What's This?](<HEADER URL>) - Provides a brief description of Onyx.
+2. [Future Support?](<HEADER URL>) - Lets you know what may be coming to this project.
+3. [Guide](<HEADER URL>) - Just a fairly basic guide to teach you how to use this.
+4. [Latest Release](<HEADER URL>) - Copy the latest, and most updated edition of Onyx.
 
-# why❓
-**I** made onyx as a fun project while argon is down and i have free time. 
+# What's This? :thought_balloon:
+Onyx - A lighting / humanoid manipulation utility that heavily improves FPS, playability, and allows for tons of player mods and unfair advantages.
 
-# how to use 🧑🏻‍💻
-1. Download an executor like [Salad](https://discord.gg/NbpGvpfJ29), [Solara](https://getsolara.dev/) or [Argon](https://getargon.xyz/)  
-2. Inject/attach your executor into [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
-3. in the textbox insert the code below into it and execute
-4. there Onyx is offically loaded into the game
+# Future Support? :lock:
+Onyx more than likely won't be receiving many updates aside from the usual bug fix.
 
-# The script 📜
+# Guide
+1. Setup an Exploit Environment, like an Executor
+Some good free ones include [Salad](https://discord.gg/NbpGvpfJ29), [Solara](https://getsolara.dev/), and [Argon](https://getargon.xyz/)
+2. Open & Attach into Roblox
+3. In your integrated IDE, paste Onyx and then run the code
+
+# Our Script :scroll:
 ```lua
-loadstring(game:HttpGet("https://github.com/xxpwnxxx420lord/Onyx/blob/main/load.lua?raw=true",true))()
+loadstring(game:HttpGet(
+  "https://github.com/xxpwnxxx420lord/Onyx/blob/main/load.lua?raw=true"
+))()
 ```
-
