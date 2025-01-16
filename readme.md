@@ -1,5 +1,5 @@
-[!TIP]
-Any bugs or issues we're not aware of? **[Report it](https://discord.com/invite/a8Ng5WAzPK)**
+> [!TIP]
+> Any bugs or issues we're not aware of? **[Report it](https://discord.com/invite/a8Ng5WAzPK)**
 
 # Table of Contents :bookmark:
 1. [What's This?](https://github.com/xxpwnxxx420lord/Onyx/blob/main/readme.md#whats-this-thought_balloon) - Provides a brief description of Onyx.
